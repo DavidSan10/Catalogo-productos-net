@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:interfaces\\iproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\models\\catalogo_productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:models\\catalogo_productoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\interfaces\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:interfaces\\icategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\models\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:models\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\mysqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:mysqlconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\catalogoproductos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:catalogoproductos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|c:\\estudio\\programas\\c#\\catalogoproductos\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A25A29C-D6D0-48E4-9A5E-803825732683}|CatalogoProductos.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-28T00:55:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:26:47.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductoDto.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\ProductoDto.cs",
+              "RelativeToolTip": "Models\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:56:30.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProducto.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Interfaces\\IProducto.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IProducto.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Interfaces\\IProducto.cs",
+              "RelativeToolTip": "Interfaces\\IProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:55:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T21:10:52.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:12:10.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "catalogo_productosContext.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\catalogo_productosContext.cs",
+              "RelativeDocumentMoniker": "Models\\catalogo_productosContext.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\catalogo_productosContext.cs",
+              "RelativeToolTip": "Models\\catalogo_productosContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAACnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:35:33.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:26:44.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowE8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T21:00:56.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T23:57:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:29:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:29:25.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "Models\\CategoriaDto.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Models\\CategoriaDto.cs",
+              "RelativeToolTip": "Models\\CategoriaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:40:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoria.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Interfaces\\ICategoria.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICategoria.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Interfaces\\ICategoria.cs",
+              "RelativeToolTip": "Interfaces\\ICategoria.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:51:36.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MySqlConfiguration.cs",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\MySqlConfiguration.cs",
+              "RelativeDocumentMoniker": "MySqlConfiguration.cs",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\MySqlConfiguration.cs",
+              "RelativeToolTip": "MySqlConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:32:19.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CatalogoProductos.csproj",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\CatalogoProductos.csproj",
+              "RelativeDocumentMoniker": "CatalogoProductos.csproj",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\CatalogoProductos.csproj",
+              "RelativeToolTip": "CatalogoProductos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T16:19:32.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Estudio\\Programas\\C#\\CatalogoProductos\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T16:32:34.017Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
